@@ -14,8 +14,8 @@ subtitle:
 
 content:
   # Contact (add or remove contact options as necessary)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: mg.sperandii@gmail.com
+  phone: #
   appointment_url: 'https://calendly.com'
   address:
     street: 450 Serra Mall
@@ -32,11 +32,11 @@ content:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/mgsperandii'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'skype:hydra.eris'
   - icon: video
     icon_pack: fas
     name: Zoom Me
