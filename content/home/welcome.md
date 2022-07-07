@@ -14,4 +14,4 @@ design:
 
 I'm a vegetation scientist with a strong focus on temporal ecology. I'm currently a postdoctoral researcher at the Desertification Research Centre, an institute of the Spanish National Research Council CSIC. 
 
-**Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+**Keywords:** Temporal ecology, Resurveying studies, Protected areas effectiveness, Coastal dunes, Dry grasslands
