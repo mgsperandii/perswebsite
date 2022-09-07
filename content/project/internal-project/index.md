@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Chart of the project by Marta Gaia Sperandii
   focal_point: Smart
 
 links:
@@ -29,9 +29,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Hi! I've been recently awarded an ERA fellowship to develop the project "VegTrends - Assessing long-term trends in the vegetation of European habitats and evaluating the effectiveness of protected areas". 
+<img width="656" alt="Schermata 2021-09-20 alle 17 33 32" src="https://user-images.githubusercontent.com/74492909/188915679-0e1fd6f8-bd8a-42f0-91be-d7869aa5137a.png">
 
-![F1](https://user-images.githubusercontent.com/74492909/188914736-bd6160aa-3b7f-43f1-a14f-05e96fbdc919.jpg)
+<p align="justify">Hi! I've been recently awarded an ERA fellowship to develop the project "VegTrends - Assessing long-term trends in the vegetation of European habitats and evaluating the effectiveness of protected areas". 
 
 Curious about it? Here's the abstract:
 
