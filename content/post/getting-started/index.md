@@ -1,6 +1,6 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Welcome to my page!
+subtitle: Hi, and welcome to my page! 🪷  Here's a brief summary of my research interests and activity
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -30,22 +30,20 @@ image:
 
 authors:
 - admin
-- 美杨
+-
 
 tags:
 - Academic
-- 开源
+-
 
 categories:
 - Demo
-- 教程
+-
 ---
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+1. I'm a young vegetation scientist with a strong focus on temporal ecology.  currently post-doc at the Desertification Research Centre (Spanish National Research Council). Her research interests center on analyzing multiple facets of temporal dynamics and understanding the mechanisms regulating the stability of plant communities, as well as assessing the effectiveness of protected areas on natural habitats. Previous Steering Committee member of the IAVS Young Scientists, she is also involved in the LOTVS initiative, a global collection of permanent vegetation plots. As a happy Tidyverse user, enthusiast about data visualization, she would like to support the Ecoinformatics group in developing tools and organizing activities directed at strengthening the knowledge and encouraging the use (and coding) of quantitative methods in vegetation ecology. 
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
