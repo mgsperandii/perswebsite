@@ -1,8 +1,8 @@
 ---
-title: **VegTrends**
-summary: A new European research project to assess long-term changes in the vegetation of European habitats and evaluate the effectiveness of protected areas.
+title: Internal Project
+summary: An example of using the in-built project page.
 tags:
-- Temporal changes; Resurvey; Long-term data; Vegetation; Biodiversity; Natural habitat; Europe
+- Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
