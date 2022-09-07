@@ -1,6 +1,6 @@
 ---
 title: **VegTrends**
-summary: A new European research project to assess long-term changes in the 🌿 vegetation of European habitats 🌾 and evaluate the effectiveness of protected areas.
+summary: A new European research project to assess long-term changes in the vegetation of European habitats and evaluate the effectiveness of protected areas.
 tags:
 - Temporal changes; Resurvey; Long-term data; Vegetation; Biodiversity; Natural habitat; Europe
 date: "2016-04-27T00:00:00Z"
