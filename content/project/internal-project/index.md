@@ -1,8 +1,8 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: **VegTrends**
+summary: A new European research project to assess long-term changes in the vegetation of European habitats and evaluate the effectiveness of protected areas.
 tags:
-- Deep Learning
+- Temporal changes; Resurvey; Long-term data; Vegetation; Biodiversity; Natural habitat; Europe
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/mgsperandii
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,13 +29,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+Hi! I've been recently awarded an ERA fellowship to develop the project "VegTrends - Assessing long-term trends in the 🌿 vegetation of European habitats 🌾 and evaluating the effectiveness of protected areas". 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Curious about it? ☺️ Here's the abstract:
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Across most of the globe, ecosystems are being transformed, degraded and fragmented. In Europe, more than 30% of terrestrial habitats have been assessed as "threatened", and the extent to which existing protected areas effectively safeguard biodiversity is currently debated. Halting biodiversity loss, ensuring current and future provisioning of its associated benefits, and protecting natural habitats are core priorities of worldwide conservation agendas, e.g. the UN Sustainable Development Goals or the EU 2030 Biodiversity Strategy. To achieve these goals, assessments of biodiversity changes through time are essential, especially if accounting for multiple diversity facets and for different levels of biological organization. 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Resurvey studies of vegetation, based on the re- sampling of historically surveyed vegetation plots, are increasingly used as a cost-effective means to detect temporal changes across many ecosystems. The recent availability of long-term vegetation datasets spanning across large geographical areas and multiple ecosystems offers an unprecedented opportunity to quantify biodiversity change efficiently and across previously intractable spatial extents. 
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+In light of these considerations, VegTrends aim to: i) provide a multi-habitat assessment of non-random temporal vegetation changes accounting for multiple diversity facets (taxonomic, functional, phylogenetic) and different biological levels (community and species); ii) evaluate the effectiveness of protected areas in conserving European habitats. To address these aspects, VegTrends will make use of [ReSurveyEurope](http://euroveg.org/eva-database-re-survey-europe), a unique database of long-term vegetation time-series derived from resurvey studies. Together with a novel and comprehensive methodological approach, this will allow gaining unique insights into the temporal trends in European vegetation and assessing risks for individual habitats.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Stay tuned for updates!🥳
