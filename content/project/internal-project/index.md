@@ -1,6 +1,6 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: VegTrends
+summary: A European research project to assess long-term trends in the vegetation of European habitats and evaluate the effectiveness of protected areas.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
