@@ -29,9 +29,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Hi! I've been recently awarded an ERA fellowship to develop the project "VegTrends - Assessing long-term trends in the 🌿 vegetation of European habitats 🌾 and evaluating the effectiveness of protected areas". 
+Hi! I've been recently awarded an ERA fellowship to develop the project "VegTrends - Assessing long-term trends in the vegetation of European habitats and evaluating the effectiveness of protected areas". 
 
-Curious about it? ☺️ Here's the abstract:
+Curious about it? Here's the abstract:
 
 Across most of the globe, ecosystems are being transformed, degraded and fragmented. In Europe, more than 30% of terrestrial habitats have been assessed as "threatened", and the extent to which existing protected areas effectively safeguard biodiversity is currently debated. Halting biodiversity loss, ensuring current and future provisioning of its associated benefits, and protecting natural habitats are core priorities of worldwide conservation agendas, e.g. the UN Sustainable Development Goals or the EU 2030 Biodiversity Strategy. To achieve these goals, assessments of biodiversity changes through time are essential, especially if accounting for multiple diversity facets and for different levels of biological organization. 
 
@@ -39,4 +39,4 @@ Resurvey studies of vegetation, based on the re- sampling of historically survey
 
 In light of these considerations, VegTrends aim to: i) provide a multi-habitat assessment of non-random temporal vegetation changes accounting for multiple diversity facets (taxonomic, functional, phylogenetic) and different biological levels (community and species); ii) evaluate the effectiveness of protected areas in conserving European habitats. To address these aspects, VegTrends will make use of [ReSurveyEurope](http://euroveg.org/eva-database-re-survey-europe), a unique database of long-term vegetation time-series derived from resurvey studies. Together with a novel and comprehensive methodological approach, this will allow gaining unique insights into the temporal trends in European vegetation and assessing risks for individual habitats.
 
-Stay tuned for updates!🥳
+Stay tuned for updates!
