@@ -31,6 +31,8 @@ slides: example
 ---
 Hi! I've been recently awarded an ERA fellowship to develop the project "VegTrends - Assessing long-term trends in the vegetation of European habitats and evaluating the effectiveness of protected areas". 
 
+![F1](https://user-images.githubusercontent.com/74492909/188914736-bd6160aa-3b7f-43f1-a14f-05e96fbdc919.jpg)
+
 Curious about it? Here's the abstract:
 
 Across most of the globe, ecosystems are being transformed, degraded and fragmented. In Europe, more than 30% of terrestrial habitats have been assessed as "threatened", and the extent to which existing protected areas effectively safeguard biodiversity is currently debated. Halting biodiversity loss, ensuring current and future provisioning of its associated benefits, and protecting natural habitats are core priorities of worldwide conservation agendas, e.g. the UN Sustainable Development Goals or the EU 2030 Biodiversity Strategy. To achieve these goals, assessments of biodiversity changes through time are essential, especially if accounting for multiple diversity facets and for different levels of biological organization. 
