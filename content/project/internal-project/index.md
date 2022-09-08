@@ -43,10 +43,3 @@ Resurvey studies of vegetation, based on the re- sampling of historically survey
 In light of these considerations, VegTrends aim to: i) provide a multi-habitat assessment of non-random temporal vegetation changes accounting for multiple diversity facets (taxonomic, functional, phylogenetic) and different biological levels (community and species); ii) evaluate the effectiveness of protected areas in conserving European habitats. To address these aspects, VegTrends will make use of [ReSurveyEurope](http://euroveg.org/eva-database-re-survey-europe), a unique database of long-term vegetation time-series derived from resurvey studies. Together with a novel and comprehensive methodological approach, this will allow gaining unique insights into the temporal trends in European vegetation and assessing risks for individual habitats.
 
 Stay tuned for updates!
-  
-```{=html}
-<style>
-body {
-text-align: justify}
-</style>
-```
