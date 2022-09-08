@@ -32,7 +32,8 @@ slides: example
 
 Hi! I've been recently awarded an **ERA fellowship** to develop the project "**VegTrends** - Assessing long-term trends in the vegetation of European habitats and evaluating the effectiveness of protected areas". To this aim, I'll spend the next two years at the [Department of Botany and Zoology](https://botzool.sci.muni.cz/en) of the vibrant [Masaryk University](https://www.muni.cz/en)
   
- <p align="center"><img width="656" alt="Schermata 2021-09-20 alle 17 33 32" src="https://user-images.githubusercontent.com/74492909/188915679-0e1fd6f8-bd8a-42f0-91be-d7869aa5137a.png">
+ <p align="center"><img width="656" alt="web1" src="https://user-images.githubusercontent.com/74492909/189151036-498cd599-e0a3-4b1b-acc2-3dd7c747edca.png">
+
 
 Curious about it? Here's the abstract:
 
