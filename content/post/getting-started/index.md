@@ -1,6 +1,6 @@
 ---
-title: Welcome to my page!
-subtitle: Hi, and welcome to my page! 🪷  Here's a brief summary of my research interests and activity
+title: Hello there!
+subtitle: Hi, and welcome to my page! 🪷  Here's a brief summary of my research interests and activity until now
 
 # Summary for listings and search engines
 summary: Hi 👋 Here's a brief summary of my research interests and academic path.
