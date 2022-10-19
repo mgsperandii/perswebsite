@@ -6,11 +6,11 @@ title: Marta Gaia Sperandii
 superuser: true
 
 # Role/position
-role: Postdoctoral Researchersssss
+role: ERA fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Consejo Superior de Investigaciones Cientificas
+- name: Masaryk University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
