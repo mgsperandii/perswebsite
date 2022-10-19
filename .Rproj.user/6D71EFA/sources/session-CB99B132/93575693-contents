@@ -6,7 +6,7 @@ title: Marta Gaia Sperandii
 superuser: true
 
 # Role/position
-role: ERA fellow
+role: ERA Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
