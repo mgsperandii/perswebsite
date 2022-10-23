@@ -11,7 +11,7 @@ role: ERA Postdoctoral Fellow
 # Organizations/Affiliations
 organizations:
 - name: Masaryk University
-  url: ""
+  url: "https://www.muni.cz/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: A vegetation scientist with a strong focus on temporal plant ecology.
@@ -23,7 +23,7 @@ bio: A vegetation scientist with a strong focus on temporal plant ecology.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:mgsperandii@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mgsperandii
@@ -33,6 +33,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2507-5928
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
