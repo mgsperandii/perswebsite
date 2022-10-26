@@ -12,6 +12,6 @@ design:
   columns: '1'
 ---
 
-Ciao!I am a vegetation scientist with a strong focus on temporal ecology. After graduating at Roma Tre University, I worked as a postdoc for the Spanish National Research Council, in Francesco de Bello's lab. I was recently awarded an ERA Postdoctoral Fellowship, that I am carrying out at 🇨🇿Masaryk University🇨🇿 
+I am a vegetation scientist with a strong focus on temporal ecology. After graduating at Roma Tre University, I worked as a postdoc for the Spanish National Research Council, in Francesco de Bello's lab. I was recently awarded an ERA Postdoctoral Fellowship, that I am carrying out at 🇨🇿Masaryk University🇨🇿 
 
 **Keywords:** Temporal ecology, Resurveying studies, Protected areas effectiveness, Coastal dunes, Dry grasslands
