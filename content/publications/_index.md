@@ -3,6 +3,8 @@ title: "List of publications (since ZZ)"
 subtitle: sorted by categories
 ---
 
+<iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/img/network.html" title=""></iframe>
+
 ## Vegetation ecology
 
 - Renault D., Hess M.C.M., Braschi J., Cuthbert R.N., **Sperandii** M.G., Bazzichetto M., ... & Massol F. 2022. Advancing biological invasion hypothesis testing using functional diversity indices. _Science of the Total Environment_. DOI: [**10.1016/j.scitotenv.2022.155102**](https://doi.org/10.1016/j.scitotenv.2022.155102)
