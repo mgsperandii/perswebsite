@@ -1,7 +1,13 @@
 ---
-title: VegTrends
-subtitle: Assessing long-term trends in the vegetation of European habitats and evaluating the effectiveness of protected areas
-summary: A European research project to assess long-term trends in the vegetation of European habitats and evaluate the effectiveness of protected areas.
+title: Bio
+subtitle: An overview of what I've been up so far
+summary: I hold a Ms.C in "Conservation and restoration of forest environments and soil defense", which I obtained from [Tuscia University](http://www.unitus.it/en/dipartimento/dafne) with a thesis exploring the ecology and distribution of the fascinating *Acer Cappadocicum* subsp. *lobelii* in Italy. It was about that period, however, that the
+opportunity to join a research project focused on fine-
+scale biodiversity patters in the
+Abruzzo Lazio and Molise National Park allowed me to discover the beauty of semi-natural dry grasslands.
+During my PhD years, I moved away from forest environments to discover coastal dunes. between 2018 and 2019, I carried on a resurveying project After obtaining my PhD at Roma Tre University, I landed in 🇪🇸Valencia🇪🇸, where I joined for two years the Functional Diversity Lab at the Desertification Research Centre (institute of the Spanish National Research Council).
+
+
 tags:
 - research
 date: "2016-04-27T00:00:00Z"

@@ -9,18 +9,21 @@ main:
     weight: 10
   - name: Research
     url: '/project'
-    weight: 30
+    weight: 40
   - name: Events
     url: '/event'
-    weight: 40
+    weight: 50
   - name: Publications
     url: '/publications'
-    weight: 50
+    weight: 60
   - name: Contact
     url: '/contact'
-    weight: 60
+    weight: 70
   - name: VegTrends
     url: '/vegtrends'
+    weight: 30
+  - name: Bio
+    url: '/bio'
     weight: 20
 
 # Link to a PDF of your resume/CV from the menu.
