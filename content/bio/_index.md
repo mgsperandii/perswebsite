@@ -29,6 +29,7 @@ slides: example
 
 I hold a Ms.C in "Forest conservation and restoration", which I obtained from [Tuscia University](http://www.unitus.it/en/dipartimento/dafne) with a thesis exploring the ecology and distribution of the fascinating *Acer cappadocicum* subsp. *lobelii* in Italy.
 <p align="center"><img width="656" alt="web1" src="acerlob_canopy.png">
+*Canopy dominated by Acer cappadocicum subsp. lobelli, Abetina di Rosello, Abruzzo, Italy*
 
 It was about that period, however, that I also had the opportunity to join a research project focused on fine-scale biodiversity patters in the [Abruzzo Lazio and Molise National Park](http://www.parcoabruzzo.it/Eindex.php). This allowed me to discover the beauty of semi-natural dry grasslands, and led to some nice collaborations, including [Cancellieri et al. 2017](https://doi.org/10.1080/11263504.2017.1311963) and [Filibeck et al. 2019a](https://doi.org/10.1007/s10531-019-01788-7),[b](https://doi.org/10.1080/11263504.2019.165178).
 <p align="center"><img width="656" alt="web1" src="drygrass2.jpg">
