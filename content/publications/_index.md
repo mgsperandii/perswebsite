@@ -1,9 +1,11 @@
 ---
-title: "List of publications (since ZZ)"
-subtitle: sorted by categories
+title: "An updated list of publications (since 2017)"
+subtitle: 
 ---
 
 <iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/img/network.html" title=""></iframe>
+
+*A network visualization of the most frequent keywords extracted from my published papers*
 
 ## Vegetation ecology
 

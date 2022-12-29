@@ -1,12 +1,6 @@
 ---
 title: Bio
 subtitle: An overview of what I've been up so far
-summary: I hold a Ms.C in "Conservation and restoration of forest environments and soil defense", which I obtained from [Tuscia University](http://www.unitus.it/en/dipartimento/dafne) with a thesis exploring the ecology and distribution of the fascinating *Acer Cappadocicum* subsp. *lobelii* in Italy. It was about that period, however, that the
-opportunity to join a research project focused on fine-
-scale biodiversity patters in the
-Abruzzo Lazio and Molise National Park allowed me to discover the beauty of semi-natural dry grasslands.
-During my PhD years, I moved away from forest environments to discover coastal dunes. between 2018 and 2019, I carried on a resurveying project After obtaining my PhD at Roma Tre University, I landed in 🇪🇸Valencia🇪🇸, where I joined for two years the Functional Diversity Lab at the Desertification Research Centre (institute of the Spanish National Research Council).
-
 
 tags:
 - research
@@ -14,10 +8,6 @@ date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
-
-image:
-  caption: Chart of the project by Marta Gaia Sperandii
-  focal_point: Smart
 
 links:
 - icon: twitter
@@ -36,12 +26,16 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
- <p align="center"><img width="656" alt="web1" src="https://user-images.githubusercontent.com/74492909/189151036-498cd599-e0a3-4b1b-acc2-3dd7c747edca.png">
 
-**VegTrends** is a research project funded under the **2021 "HORIZON.4.1 - Widening participation and spreading excellence" call**. To develop VegTrends, I will spend the next two years at the [Department of Botany and Zoology](https://botzool.sci.muni.cz/en) of the vibrant [Masaryk University](https://www.muni.cz/en). Specifically, I will join Milan Chytrý's [Vegetation Science Group](https://botzool.cz/vegsci/).
+I hold a Ms.C in "Forest conservation and restoration", which I obtained from [Tuscia University](http://www.unitus.it/en/dipartimento/dafne) with a thesis exploring the ecology and distribution of the fascinating *Acer cappadocicum* subsp. *lobelii* in Italy.
+<p align="center"><img width="656" alt="web1" src="acerlob_canopy.png">
 
-Making use of the recently assembled [ReSurveyEurope](http://euroveg.org/eva-database-re-survey-europe) database, VegTrends will produce the first comprehensive and representative report of temporal trends in the vegetation of European open habitats. Specific objectives (O) addressed through two work packages (WPs) are: (i) assessing temporal trends in the vegetation of open European habitats and (ii) evaluating the effectiveness of protected areas (Natura2000 + Emerald Network) in conserving the vegetation of open European habitats.
+It was about that period, however, that I also had the opportunity to join a research project focused on fine-scale biodiversity patters in the [Abruzzo Lazio and Molise National Park](http://www.parcoabruzzo.it/Eindex.php). This allowed me to discover the beauty of semi-natural dry grasslands, and led to some nice collaborations, including [Cancellieri et al. 2017](https://doi.org/10.1080/11263504.2017.1311963) and [Filibeck et al. 2019a](https://doi.org/10.1007/s10531-019-01788-7),[b](https://doi.org/10.1080/11263504.2019.165178).
+<p align="center"><img width="656" alt="web1" src="drygrass2.jpg">
 
-If you're still curious about it, you can find more information on [VegTrends' page on Cordis](https://cordis.europa.eu/project/id/101090344), an informative platform of all EU-supported R&D activities.
+During my PhD years, I came in contact with what would turn into the main focus of my research: temporal vegetation patterns. For my thesis, I used different approaches to provide an assessment of recent (10-15 years) changes in Mediterranean coastal dune habitats. After performing a diachronic analysis of the [RanvegDunes](http://doi.org/10.1127/phyto/2017/0198) database [Sperandii et al. 2018](https://doi.org/10.1007/s10531-017-1454-1), I carried on a resurveying study on focused on herbaceous dune habitats. While a [preliminary analysis](https://doi.org/10.1016/j.ecolind.2018.09.039) performed after the first resurvey season was already hinting at important changes in species composition, the complete assessment of >330 plots revealed significant habitat loss, dramatic taxonomic and functional changes, coupled with the a sharp decline in the most important dune building species, Ammophila arenaria  
+<p align="center"><img width="656" alt="web1" src="ammo1.jpg">
 
-Stay tuned for updates!
+
+
+After obtaining my PhD at Roma Tre University, I landed in 🇪🇸Valencia🇪🇸, where I joined for two years the Functional Diversity Lab at the Desertification Research Centre (institute of the Spanish National Research Council).
