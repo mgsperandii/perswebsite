@@ -40,5 +40,5 @@ design:
   view: 2
   columns: '1'
 
-active: false
+active: true
 ---
