@@ -16,4 +16,7 @@ header:
 ---
 
 <iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/img/network.html" title=""></iframe>
-*A network visualization of the most frequent keywords extracted from my published papers*
+
+*A network visualization of the most frequent keywords extracted from my published papers (DISCLAIMER: please be patient, it might take some seconds to load..:grin:)*
+
+<br>
