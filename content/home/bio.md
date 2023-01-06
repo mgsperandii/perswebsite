@@ -27,8 +27,7 @@ design:
     text_color_light: true
 advanced:
   css_style:
-  css_class: 
-  
+  css_class:
+
 author: admin
 ---
-

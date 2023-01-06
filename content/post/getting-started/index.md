@@ -1,12 +1,12 @@
 ---
-title: Hello there!
+title: An introductory post
 subtitle:
 
 # Summary for listings and search engines
 summary:
 
 # Link this post with a project
-projects: []
+projects: [content/project/internal-project/index.md]
 
 # Date published
 date: "2020-12-13T00:00:00Z"
@@ -42,8 +42,12 @@ categories:
 ---
 
 ## Overview
+I am very new to blogging, so I thought I'd start with an introductory post.
 
-A few things about me:
+I am a vegetation scientist broadly interested in biodiversity monitoring. My main research focus is the multi-faceted analysis of patterns and drivers of temporal vegetation change, but I am also interested in evaluating the effectiveness of protected areas in maintaining and/or improving the conservation status of EU habitats.
 
-- [x] Vegetation scientist
-- [x] with a strong focus on temporal ecology. After obtaining a PhD from Roma Tre University (2020), I spent the last two years in Valencia, where I was a post-doc in [Francesco de Bello](https://functionaldiversitylab.com)'s lab at the Desertification Research Centre (Spanish National Research Council). There, I focused on understanding the mechanisms regulating the stability of plant communities. Very recently (October 2022) I landed in Brno, where I am currently an ERA fellow at Masaryk University. My research interests center on analyzing multiple facets of temporal dynamics, as well as assessing the effectiveness of protected areas on natural habitats. While being also a member of the Italian Society for Vegetation Science, I am particularly involved in the [International Association for Vegetation Science](https://www.iavs.org/default.aspx). Between 2019 and 2021 I served in the Steering Committee of the [Young Scientists](https://www.iavs.org/page/working-groups_young-scientists) working group, and I am currently chairing the [Ecoinformatics](https://www.iavs.org/page/working-groups_ecoinformatics) working group. I am also involved in the [LOTVS](https://lotvs.csic.es) initiative, a global collection of permanent vegetation plots.
+So far, I have been mostly working in Mediterranean coastal dunes and dry grassland.
+
+I am particularly involved in the [International Association for Vegetation Science](https://www.iavs.org/default.aspx). Between 2019 and 2021 I served in the Steering Committee of the [Young Scientists](https://www.iavs.org/page/working-groups_young-scientists) working group, and I am currently chair of the [Ecoinformatics](https://www.iavs.org/page/working-groups_ecoinformatics) working group. I am also a member of the Italian Society for Vegetation Science and of the Italian Chapter of the Society for Conservation Biology.
+
+I am also part of the [LOTVS](https://lotvs.csic.es) initiative, a global collection of permanent vegetation plots.
