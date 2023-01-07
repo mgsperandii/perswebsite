@@ -27,7 +27,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: '&copy; Filibeck et al. 2020'
   focal_point: ''
   preview_only: false
 
@@ -36,7 +36,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [drygrass]
 publishDate: '2023-01-06T10:23:20.768053Z'
 publication_types:
 - '2'

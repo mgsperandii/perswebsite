@@ -29,14 +29,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [phd]
 publishDate: '2023-01-06T10:23:21.981059Z'
 publication_types:
 - '2'
 abstract: Multi-year temporal studies are invaluable tools for monitoring changes
   in biodiversity through time. However, their applications in coastal ecosystems
   are still scarce. We investigated temporal trends in coastal dunes analyzing a set
-  of 858 randomly-sampled georeferenced relev,s performed between 2002 and 2015 along
+  of 858 randomly-sampled georeferenced relevés performed between 2002 and 2015 along
   Central Italy's sandy coastlines. Specifically, we explored changes in species richness
   and cover of targeted sandy habitats, we investigated trends in the cover of selected
   psammophilous native species and we assessed patterns of invasion by means of regression

@@ -20,7 +20,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: '&copy; Sperandii et al. 2021'
   focal_point: ''
   preview_only: false
 
@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [phd]
 publishDate: '2023-01-06T10:23:19.266978Z'
 publication_types:
 - '2'
