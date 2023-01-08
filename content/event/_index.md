@@ -14,4 +14,3 @@ header:
   caption: ""
   image: ""
 ---
-<div style="text-align: justify">
