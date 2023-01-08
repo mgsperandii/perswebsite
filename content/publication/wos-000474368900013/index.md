@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Goffredo Filibeck
-- Marta G. Sperandii
+- Marta Gaia Sperandii
 - Manuele Bazzichetto
 - Leone D. Mancini
 - Francesco Rossini

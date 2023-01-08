@@ -34,8 +34,25 @@ projects: []
 publishDate: '2023-01-06T10:23:22.437094Z'
 publication_types:
 - '2'
-abstract: Plant diversity measures (e.g., alpha- and beta-diversity) provide the basis for a number of ecological indication and monitoring methods. These measures are based on species counts in sampling units (plots or quadrats). However, there are two alternative conventions for defining a vascular plant species as "present" in a plot, i.e. "shoot presence" (a species is recorded if the vertical projection of any above-ground part falls within the plot) and "rooted presence" (a species is recorded only when an individual is rooted inside the plot). Very few studies addressed the effects of the two sampling conventions on species richness and diversity indices. We sampled mountain dry grasslands in Italy across different plot sizes and vegetation types to assess how large is the difference in alpha- and beta-diversity values and in sample based rarefaction curves between the two methods. We found that the difference is greatly dependent on plot size, being more relevant, both in absolute and percentage values, at smaller grain; it is also dependent on habitat type, being larger in shallow-soil communities, as they have a sparser vegetation structure and host life-form types with a larger lateral spread. At fine spatial scales (<1 m(2)) the difference is large enough to bias statistical inference, and
-we conclude that at such scales one should not attempt to compare plant diversity indices if they were not obtained with the same sampling convention. (C) 2016 Elsevier Ltd. All rights reserved.
+abstract: Plant diversity measures (e.g., alpha- and beta-diversity) provide the basis
+  for a number of ecological indication and monitoring methods. These measures are
+  based on species counts in sampling units (plots or quadrats). However, there are
+  two alternative conventions for defining a vascular plant species as "present"
+  in a plot, i.e. "shoot presence" (a species is recorded if the vertical projection
+  of any above-ground part falls within the plot) and "rooted presence" (a species
+  is recorded only when an individual is rooted inside the plot). Very few studies
+  addressed the effects of the two sampling conventions on species richness and diversity
+  indices. We sampled mountain dry grasslands in Italy across different plot sizes
+  and vegetation types to assess how large is the difference in alpha- and beta-diversity
+  values and in sample based rarefaction curves between the two methods. We found
+  that the difference is greatly dependent on plot size, being more relevant, both
+  in absolute and percentage values, at smaller grain; it is also dependent on habitat
+  type, being larger in shallow-soil communities, as they have a sparser vegetation
+  structure and host life-form types with a larger lateral spread. At fine spatial
+  scales (<1 m(2)) the difference is large enough to bias statistical inference, and
+  we conclude that at such scales one should not attempt to compare plant diversity
+  indices if they were not obtained with the same sampling convention. (C) 2016 Elsevier
+  Ltd. All rights reserved.
 publication: '*ECOLOGICAL INDICATORS*'
 doi: 10.1016/j.ecolind.2016.08.029
 ---

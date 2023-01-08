@@ -48,7 +48,7 @@ abstract: Multi-year temporal studies are invaluable tools for monitoring change
   emerged analyzing patterns in the cover of an invasive alien species, Carpobrotus
   sp., which showed a concerning increase in shifting dunes. In conclusion, our analyses
   reveal concerning changes involving dune grasslands, and at the same time hint at
-  ``early warnings″ of degradation processes traceable in shifting dunes.
+  "early warnings" of degradation processes traceable in shifting dunes.
 publication: '*BIODIVERSITY AND CONSERVATION*'
 doi: 10.1007/s10531-017-1454-1
 ---

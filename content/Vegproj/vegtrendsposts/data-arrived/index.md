@@ -41,6 +41,7 @@ categories:
 - research
 -
 ---
+<div style="text-align: justify">
 
 # Resurveying data arrived! :headphones: :computer: :hammer:
 Three weeks after submitting my proposal to the consortium, I finally got access to the requested [ReSurveyEurope](http://euroveg.org/eva-database-re-survey-europe) datasets. By now, I received time-series data from >130 datasets, for a total of almost 300 resurveying projects. I see intensive days of data cleaning ahead..:sweat_smile:

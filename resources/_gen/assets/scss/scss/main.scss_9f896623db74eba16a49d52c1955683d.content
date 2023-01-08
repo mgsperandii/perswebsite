@@ -9616,3 +9616,9 @@ div.chart {
 
 .dark .portrait-title h3 {
   color: white; }
+
+.article-container {
+  max-width: 950px;
+  padding: 0 20px 0 20px;
+  margin: 0 auto 0 auto;
+  font-size: 20px; }

@@ -40,6 +40,7 @@ design:
   columns: '1'
 ---
 <br>
+<div style="text-align: justify">
 
 **VegTrends** is a research project funded under the **2021 "HORIZON.4.1 - Widening participation and spreading excellence"** call. Making use of the recently assembled [ReSurveyEurope](http://euroveg.org/eva-database-re-survey-europe) database, VegTrends will produce a comprehensive and representative report of temporal trends in the vegetation of European open habitats. Specific objectives (O) addressed through two work packages (WPs) are:
 - [ ] assessing temporal trends in the vegetation of open European habitats

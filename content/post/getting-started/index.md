@@ -40,8 +40,8 @@ categories:
 - about
 -
 ---
+<div style="text-align: justify">
 
-## Overview
 I am very new to blogging, so I thought I'd start with an introductory post.
 
 I am a vegetation scientist broadly interested in biodiversity monitoring. My main research focus is the multi-faceted analysis of patterns and drivers of temporal vegetation change, but I am also interested in evaluating the effectiveness of protected areas in maintaining and/or improving the conservation status of EU habitats.

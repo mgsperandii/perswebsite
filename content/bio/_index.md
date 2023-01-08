@@ -26,9 +26,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+<div style="text-align: justify">
 
 In 2015, I obtained a Ms.C in "Forest conservation and restoration" from [Tuscia University](http://www.unitus.it/en/dipartimento/dafne), with a thesis exploring the ecology and distribution of the fascinating *Acer cappadocicum* subsp. *lobelii* in Italy.
 ![](acerlob_canopy.png "Canopy dominated by *Acer cappadocicum* subsp. *lobelli*, [Abetina di Rosello](http://www.abetinadirosello.it), Abruzzo, Italy")
+
 
 Between 2015 and 2016, I volunteered in a research project focused on fine-scale biodiversity patters in the [Abruzzo Lazio and Molise National Park](http://www.parcoabruzzo.it/Eindex.php). This allowed me to discover the beauty of semi-natural dry grasslands, and led to some nice collaborations, including [Cancellieri et al. 2017](https://doi.org/10.1080/11263504.2017.1311963) and [Filibeck et al. 2019a](https://doi.org/10.1007/s10531-019-01788-7),[b](https://doi.org/10.1080/11263504.2019.165178).
 ![](drygrass2.jpg "*Dry grassland, Fucino basin, Abruzzo, Italy*")

@@ -41,6 +41,7 @@ categories:
 - research
 -
 ---
+<div style="text-align: justify">
 
 # 3, 2, 1...Start! :rocket:
 [VegTrends](https://mgsperandii.netlify.app/vegtrends/) has finally started, and will be running for the next two years!
