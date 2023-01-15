@@ -22,7 +22,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: '&copy; Bazzichetto et al. 2020'
+  caption: '_Ph. Marta Gaia Sperandii_'
   focal_point: ''
   preview_only: false
 

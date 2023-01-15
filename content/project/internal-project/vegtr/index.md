@@ -11,7 +11,7 @@ date: "2022-10-17T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "&copy;Marta Gaia Sperandii"
+  caption: "_Chart of the project. &copy;Marta Gaia Sperandii_"
   focal_point: Smart
 
 links:
@@ -31,6 +31,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+#_VegTrends is a research project funded under the 2021 "HORIZON.4.1 - Widening participation and spreading excellence" call._
 
 Across most of the globe, ecosystems are being transformed, degraded and fragmented. [In Europe, more than 30% of terrestrial habitats have been assessed as "threatened"](https://op.europa.eu/en/publication-detail/-/publication/22542b64-c501-11e7-9b01-01aa75ed71a1/language-en), and the extent to which existing protected areas effectively safeguard biodiversity is currently debated. Halting biodiversity loss, ensuring current and future provisioning of its associated benefits, and protecting natural habitats are core priorities of worldwide conservation agendas, e.g. the UN Sustainable Development Goals or the EU 2030 Biodiversity Strategy. To achieve these goals, assessments of biodiversity changes through time are essential, especially if accounting for multiple diversity facets and for different levels of biological organization.
 
@@ -38,7 +39,5 @@ Across most of the globe, ecosystems are being transformed, degraded and fragmen
 
 VegTrends aims at producing a comprehensive and representative report of temporal vegetation trends in European open habitats. Specific objectives, addressed through two working packages (WPs) are: i) providing a multi-habitat assessment of temporal vegetation changes accounting for multiple diversity facets (taxonomic, functional, phylogenetic) and different biological levels (community and species); ii) evaluating the effectiveness of protected areas in conserving European habitats. To do so, VegTrends will make use of [ReSurveyEurope](http://euroveg.org/eva-database-re-survey-europe), a unique database of long-term vegetation time-series derived from resurvey studies. This will allow gaining unique insights into the temporal trends of European vegetation and assessing risks for individual habitats.
 
-Stay tuned for updates!
+[Stay tuned for updates!](https://mgsperandii.netlify.app/vegproj/)
 ---
-
-{{< hl >}}VegTrends is a research project funded under the 2021 "HORIZON.4.1 - Widening participation and spreading excellence" call.{{< hl >}}
