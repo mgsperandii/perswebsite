@@ -3,7 +3,7 @@ abstract: Global changes and anthropogenic pressures are severely transforming b
 address:
   city: Bremen
   country: Germany
-  postcode: 
+  postcode:
   region:
   street:
 all_day: false
@@ -14,7 +14,7 @@ event: 62nd Annual Symposium of the International Association for Vegetation Sci
 event_url: https://example.org
 featured: false
 image:
-  caption: 'Image credit: [**Manuele Bazzichetto**](https://mbazzichetto.netlify.app)'
+  caption: 'Image credit: **Manuele Bazzichetto**'
   focal_point: Right
 location: University of Bremen
 math: true
