@@ -5,7 +5,7 @@ address:
   country: Italy
   postcode: 67100
   region:
-  street:
+  street: viale Nizza 14
 all_day: false
 authors: []
 date: "2022-06-16T12:00:00Z"
@@ -16,7 +16,7 @@ featured: false
 image:
   caption: 'Image credit: [**Manuele Bazzichetto**](https://mbazzichetto.netlify.app)'
   focal_point: Right
-location: Università degli Studi dell'Aquila, viale Nizza 14
+location: Università degli Studi dell'Aquila
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
