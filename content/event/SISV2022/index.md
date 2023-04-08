@@ -14,7 +14,7 @@ event: 55th International Congress of the Italian Society of Vegetation Science 
 event_url: https://example.org
 featured: false
 image:
-  caption: 'Image credit: [**Manuele Bazzichetto**](https://mbazzichetto.netlify.app)'
+  caption: 'Image credit: **Manuele Bazzichetto**'
   focal_point: Right
 location: Università degli Studi dell'Aquila
 math: true

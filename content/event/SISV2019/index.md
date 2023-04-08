@@ -15,7 +15,7 @@ event: 53rd Congress of the the Italian Society of Vegetation Science (SISV) “
 event_url: https://example.org
 featured: false
 image:
-  caption: 'Image credit: [**Manuele Bazzichetto**](https://mbazzichetto.netlify.app)'
+  caption: 'Image credit: **Manuele Bazzichetto**'
   focal_point: Right
 location: Università degli Studi di Sassari
 math: true

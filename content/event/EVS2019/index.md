@@ -14,7 +14,7 @@ event: 28th Meeting of the European Vegetation Survey (EVS) “Vegetation Divers
 event_url: https://example.org
 featured: false
 image:
-  caption: 'Image credit: [**Manuele Bazzichetto**](https://mbazzichetto.netlify.app)'
+  caption: 'Image credit: **Manuele Bazzichetto**'
   focal_point: Right
 location: Universidad Complutense
 math: true
