@@ -3,9 +3,9 @@ abstract: Global changes and anthropogenic pressures are severely transforming b
 address:
   city: Bremen
   country: Germany
-  postcode: 28040
+  postcode: 
   region:
-  street: Ciudad Universitaria
+  street:
 all_day: false
 authors: []
 date: "2019-07-14T18:00:00Z"
@@ -16,7 +16,7 @@ featured: false
 image:
   caption: 'Image credit: [**Manuele Bazzichetto**](https://mbazzichetto.netlify.app)'
   focal_point: Right
-location: Universidad Complutense
+location: University of Bremen
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
