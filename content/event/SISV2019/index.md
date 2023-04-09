@@ -10,7 +10,7 @@ address:
 all_day: false
 authors: []
 date: "2019-05-30T09:00:00Z"
-date_end: "2019-06-01T19:00:00Z"
+date_end: "2019-06-01T18:00:00Z"
 event: 53rd Congress of the the Italian Society of Vegetation Science (SISV) “Sustainable habitat management - biodiversity, plant traits, ecosystem services”.
 event_url: https://example.org
 featured: false
