@@ -49,7 +49,7 @@ The results of a cool, multi-disciplinary collaboration led by [Marco Malavasi](
 
 Using point pattern analysis, we identified which habitat types did the Nuragic civilisation (Sardinia, 1700 – 580 BCE) prefer when planning their settlements in Sardinia.
 
-We navigated this adventure, challenged by different languages and methodologies, with a transdisciplinary team of ecologists and archaeologists. Under an ecosystem services perspective, plant ecology provided archaeology with an improved understanding of the environmental settings and subsistence of the Nuragic civilization, while gaining a long-term perspective on human-vegetation interactions.
+We went on this adventure, challenged by different languages and methodologies, with a transdisciplinary team of ecologists and archaeologists. Under an ecosystem services perspective, plant ecology provided archaeology with an improved understanding of the environmental settings and subsistence of the Nuragic civilization, while gaining a long-term perspective on human-vegetation interactions.
 
 
 [Here the plain language summary](https://relationalthinkingblog.com/2023/02/22/plain-language-summary-past-present-and-future-ecosystem-services-from-the-nuragic-sardinia-1700-580-bce/) and [here the open-access paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10461)
