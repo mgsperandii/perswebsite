@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: Sperandii M.G., the ReSurveyEurope Contributors, Chytrý M.
 tags: []
-title: Introducing VegTrends: an EU-funded project to assess long-term trends in European vegetation and evaluating the effectiveness of protected areas
+title: Introducing VegTrends - an EU-funded project to assess long-term trends in European vegetation and evaluating the effectiveness of protected areas
 url_code: ""
 url_pdf: ""
 url_slides: ""
