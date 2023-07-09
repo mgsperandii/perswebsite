@@ -8,20 +8,20 @@ address:
   region:
   street: Via Piandanna 4
 all_day: false
-authors: []
+authors: [Sperandii MG, Barták V, Acosta ATR]
 date: "2019-05-30T09:00:00Z"
 date_end: "2019-06-01T18:00:00Z"
 event: 53rd Congress of the the Italian Society of Vegetation Science (SISV) “Sustainable habitat management - biodiversity, plant traits, ecosystem services”.
 event_url: https://example.org
 featured: false
 image:
-  caption: 'Image credit: **Manuele Bazzichetto**'
+  caption: 'Image credit: **Marco Malavasi**'
   focal_point: Right
 location: Università degli Studi di Sassari
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Sperandii M.G, Bazzichetto M., Acosta A.T.R
+summary:
 tags: []
 title: Through the lens of time - experiences from a resurveying study of coastal dune ecosystems in Central Italy
 url_code: ""

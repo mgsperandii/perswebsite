@@ -7,7 +7,7 @@ address:
   region:
   street:
 all_day: false
-authors: []
+authors: [Sperandii MG, Barták V, Acosta ATR]
 date: "2019-07-14T18:00:00Z"
 date_end: "2019-07-19T18:00:00Z"
 event: 62nd Annual Symposium of the International Association for Vegetation Science “Vegetation Science and Biodiversity research".
@@ -20,7 +20,7 @@ location: University of Bremen
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Sperandii M.G, Barták V., Acosta A.T.R
+summary:
 tags: []
 title: Multi-temporal analysis of coastal dune ecosystems in Central Italy - experiences from a resurveying study
 url_code: ""
