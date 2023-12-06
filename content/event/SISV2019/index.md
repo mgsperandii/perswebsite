@@ -21,7 +21,7 @@ location: Università degli Studi di Sassari
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary:
+summary: 53rd Congress of the the Italian Society of Vegetation Science (SISV) “Sustainable habitat management - biodiversity, plant traits, ecosystem services”. 30/05-01/06 2019, Sassari, Italy.
 tags: []
 title: Through the lens of time - experiences from a resurveying study of coastal dune ecosystems in Central Italy
 url_code: ""

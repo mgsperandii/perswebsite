@@ -20,7 +20,7 @@ location: University of Bremen
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary:
+summary: 62nd Annual Symposium of the International Association for Vegetation Science “Vegetation Science and Biodiversity research". 14-19 July 2019, Bremen, Germany.
 tags: []
 title: Multi-temporal analysis of coastal dune ecosystems in Central Italy - experiences from a resurveying study
 url_code: ""

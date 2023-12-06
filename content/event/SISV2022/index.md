@@ -20,7 +20,7 @@ location: Università degli Studi dell'Aquila
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Sperandii M.G, Bazzichetto M., Acosta A.T.R
+summary: 55th International Congress of the Italian Society of Vegetation Science (SISV) “Vegetation Science and Global Changes - Scenarios, Challenges and Innovation. 16-17 June 2022, L'Aquila, Italy.
 tags: []
 title: Challenges and pitfalls in assessing protected areas effectiveness (invited talk)
 url_code: ""
