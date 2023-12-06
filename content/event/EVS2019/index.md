@@ -20,7 +20,7 @@ location: Universidad Complutense
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Sperandii M.G, Barták V., Acosta A.T.R
+summary: 28th Meeting of the European Vegetation Survey (EVS) “Vegetation Diversity and Global Change". 2-6 September 2019, Madrid, Spain
 tags: []
 title: Through the lens of time - experiences from a resurveying study of coastal dune ecosystems in Central Italy
 url_code: ""

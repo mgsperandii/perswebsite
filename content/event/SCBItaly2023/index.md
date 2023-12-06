@@ -20,7 +20,7 @@ location: Sala dei Lecci, Bioparco di Roma
 math: true
 publishDate: "2023-05-01T00:00:00Z"
 slides: example
-summary:
+summary: 1st ECR conference on Conservation Biology  “Challenging conservation - adattarsi al cambiamento". 19-21 April 2023, Rome, Italy
 tags: []
 title: Introducing VegTrends - an EU-funded project to assess long-term trends in European vegetation and evaluating the effectiveness of protected areas
 url_code: ""

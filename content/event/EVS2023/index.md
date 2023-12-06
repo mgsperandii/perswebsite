@@ -20,7 +20,7 @@ location: Hungarian Academy in Rome
 math: true
 publishDate: "2023-06-01T00:00:00Z"
 slides: example
-summary:
+summary: 31st Conference of the European Vegetation Survey - methods and approaches in a changing environment. 21-25 May 2023, Rome, Italy.
 tags: []
 title: Introducing VegTrends - an EU-funded project to assess long-term trends in European vegetation and evaluating the effectiveness of protected areas
 url_code: ""
