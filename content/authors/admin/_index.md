@@ -10,8 +10,8 @@ role: ERA Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Masaryk University
-  url: https://www.muni.cz/en
+- name:
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: A vegetation scientist with a strong focus on temporal plant ecology.

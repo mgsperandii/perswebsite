@@ -17,12 +17,12 @@ content:
   email: mg.sperandii@gmail.com
   phone: #
   address:
-    street: Department of Botany and Zoology, Kotlarska 2
-    city: Brno
+    street:
+    city:
     region:
-    postcode: '61137'
-    country: Czech Republic
-    country_code: CZ
+    postcode:
+    country:
+    country_code:
   directions:
   office_hours:
   contact_links:
