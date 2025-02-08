@@ -20,7 +20,7 @@ location: Opal Cove Resort
 math: true
 publishDate: "2023-12-06T00:00:00Z"
 slides: example
-summary: 65th Annual Symposium of the International Association for Vegetation Science - The Future of Vegetation in the 22nd Century. 03-08 Septermber 2023, Coffs Harbour, NSW, Australia
+summary: 65th Annual Symposium of the International Association for Vegetation Science - The Future of Vegetation in the 22nd Century. 03-08 September 2023, Coffs Harbour, NSW, Australia
 tags: []
 title: VegTrends - assessing long-term trends in European vegetation and evaluating protected areas effectiveness
 url_code: ""
