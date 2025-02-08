@@ -1,5 +1,5 @@
 ---
-title: Research stay at the University of Sassari!
+title: Research stay at the University of Sassari ˖°𓇼🌊⋆🐚🫧
 subtitle:
 
 # Summary for listings and search engines
@@ -12,7 +12,7 @@ projects: []
 date: "2024-04-01T00:00:00Z"
 
 # Date updated
-lastmod: "2022-12-13T00:00:00Z"
+lastmod: "2024-04-01T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: no
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'image credit: reserved'
+  caption: 'Image credit: **Giovanni Rivieccio**'
   focal_point: ""
   placement: 1
   preview_only: false
